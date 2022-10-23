@@ -1,0 +1,26 @@
+{
+	"META": {
+		"repoName": "IPA Library Repo",
+		"repoIcon": "https://i.ibb.co/m80R715/719-BBC6-F-FDB1-4-EF9-809-F-703-B07-F4-F9-D9.jpg"
+	},
+	"IPA Signer": [{
+		"name": "GBox",
+		"version": "3.6.7",
+		"down": "https://www.dropbox.com/s/wo3snt1g8ih068x/GBox_v3.6.7%202.ipa?dl=1",
+		"category": "IPA Signer",
+		"description": "Приложение для подписи сертификатом разработчика.",
+		"bundleID": "com.ncs.gbox",
+		"appstore": "com.ncs.gbox",
+		"contact": {
+			"web": "https://gbox.pub"
+		}
+	}, {
+		"name": "ESign",
+		"version": "4.6.4",
+		"down": "https://www.dropbox.com/s/pjded6t6x3zpznq/esign%204.6.4.ipa?dl=1",
+		"category": "IPA Signer",
+		"description": "Приложение для подписи сертификатом разработчика.",
+		"bundleID": "p3.xyz.yyyue.sign",
+		"appstore": "p3.xyz.yyyue.sign"
+	}, ]
+}
